@@ -1,0 +1,30 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+
+# Local data
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependencies / build
+node_modules/
+.venv/
+venv/
+dist/
+build/
+.next/
+.wrangler/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.DS_Store
+*.log
+.idea/
+.vscode/
