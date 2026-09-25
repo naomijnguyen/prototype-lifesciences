@@ -7,7 +7,7 @@ QC plots.
 
 Built for bench scientists doing this by hand in Excel every time.
 
-Authored by Jennifer Nguyen Armstrong and Claude.
+Authored by Jennifer Naomi Nguyen and Claude.
 
 | Read this | If you |
 |---|---|

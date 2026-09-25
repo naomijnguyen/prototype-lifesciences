@@ -1,5 +1,5 @@
 # Plate Analyzer — Developer README
-Authored by Jennifer Nguyen and Claude
+Authored by Jennifer Naomi Nguyen and Claude
 
 
 

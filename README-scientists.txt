@@ -2,7 +2,7 @@ Plate Analyzer
 A browser-based tool for quickly analyzing 96-well plate data — ELISAs, multiplex assays, cell viability, IncuCyte exports, luminescence readouts, anything that gives you an 8×12 grid of numbers.
 Built for bench scientists who are tired of doing this by hand in Excel every time.
 
-Authored by Jennifer Nguyen Armstrong and Claude
+Authored by Jennifer Naomi Nguyen and Claude
 
 What it does
 Paste or drag in your plate layout and raw reader data, define your experimental groups, and get back:
